@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="{https://hamdean.github.io/minimal-card/}">
       Demo
     </a>
     <span> | </span>
@@ -56,5 +56,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- Website [your-website.com](https://my-portfolio-site-gamma-five.vercel.app/)
-- GitHub [@your-username](https://{github.com/HamDean})
+- Website [Portfolio site](https://my-portfolio-site-gamma-five.vercel.app/)
+- GitHub [Github username](https://{github.com/HamDean})
