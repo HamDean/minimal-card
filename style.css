@@ -1,0 +1,75 @@
+.sora {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background: #fafaf9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
+  max-width: 370px;
+  /* padding: 16px; */
+}
+
+.body-wrapper {
+  padding: 16px;
+  margin-bottom: 20px;
+}
+
+.card img {
+  border-radius: 10px;
+  margin-bottom: 16px;
+}
+
+.badge {
+  background: #f2eafd;
+  color: #7c19ee;
+  font-weight: bold;
+  padding: 2px 5px;
+  width: 55px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 10px;
+}
+
+.card h2 {
+  margin-top: 16px;
+  margin-bottom: 6px;
+  color: #20293a;
+  font-size: 18px;
+}
+
+.card p {
+  color: #394150;
+  font-size: 14px;
+  opacity: 0.7;
+}
+
+hr {
+  margin-bottom: 20px;
+  opacity: 0.3;
+}
+
+.author {
+  padding: 0 16px 16px;
+  text-align: left;
+}
